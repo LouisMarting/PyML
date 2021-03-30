@@ -1,0 +1,1 @@
+remap 'type' column to integer, or some other class specification
